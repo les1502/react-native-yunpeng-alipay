@@ -2,6 +2,8 @@
 
 React Native Module for alipay.com
 
+##使用方法
+
 ## install
 
 ```
