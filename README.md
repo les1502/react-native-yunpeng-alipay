@@ -3,14 +3,15 @@
 React Native Module for alipay.com
 
 # Use Case
-  - 支付宝支付
+- 支付宝支付
   
 # Effect Picture
   - 支付宝支付效果
-  <a><img width="200" src="./aliPay.jpg"></a>
-  <a><img width="200" src="./openAliPay.jpg"></a>
-  <a><img width="200" src="./alioayChoose.jpg"></a>
-  <a><img width="200" src="./paySucess.jpg"></a>
+  
+<a><img width="200" src="./aliPay.jpg"></a>
+<a><img width="200" src="./openAliPay.jpg"></a>
+<a><img width="200" src="./alioayChoose.jpg"></a>
+<a><img width="200" src="./paySucess.jpg"></a>
 
   
   
