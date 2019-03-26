@@ -2,16 +2,19 @@
 
 React Native Module for alipay.com
 
+# Introduction
+- 该组件用于调起支付宝app 适用于安卓和IOS ，应用场景目前主要是调起支付宝支付。
+
 # Use Case
 - 支付宝支付
   
 # Effect Picture
   - 支付宝支付效果
   
-<a><img width="200" src="./aliPay.jpg"></a>
-<a><img width="200" src="./openAliPay.jpg"></a>
-<a><img width="200" src="./alioayChoose.jpg"></a>
-<a><img width="200" src="./paySucess.jpg"></a>
+<a><img width="200" src="./doc/images/aliPay.jpg"></a>
+<a><img width="200" src="./doc/images/openAliPay.jpg"></a>
+<a><img width="200" src="./doc/images/alioayChoose.jpg"></a>
+<a><img width="200" src="./doc/images/paySucess.jpg"></a>
 
   
   
