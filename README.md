@@ -111,6 +111,8 @@ rnpm link react-native-yunpeng-alipay
 
 ### General Usage
 
+- Alipay.pay(data)中的data是服务端生成的订单信息，需要先调用一个接口请求，然后才可以进行 支付调用
+
 ```javascript
 import Alipay from 'react-native-yunpeng-alipay';
 
